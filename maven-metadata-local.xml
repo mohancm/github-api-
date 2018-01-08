@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.kohsuke</groupId>
+  <artifactId>github-api</artifactId>
+  <versioning>
+    <versions>
+      <version>1.69-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180108070518</lastUpdated>
+  </versioning>
+</metadata>
